@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,4CAA+C,CAC/C,WACF,CAEA,IACE,oBACF","file":"main.d2def36b.chunk.css","sourcesContent":["body {\n  font: 14px \"Century Gothic\", Futura, sans-serif;\n  margin: 20px;\n}\n\ndiv {\n  white-space: pre-wrap;\n} "]}

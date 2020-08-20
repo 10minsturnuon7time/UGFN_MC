@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="FL.Testing.MCtesting.e351a522-1130-47d6-a178-70e095057950" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Testing">
+    <organization identifier="Testing">
+      <title>MCtesting</title>
+      <item identifier="item_FL.Testing.MCtesting.e351a522-1130-47d6-a178-70e095057950" identifierref="resource_FL.Testing.MCtesting.e351a522-1130-47d6-a178-70e095057950">
+        <title>MCtesting</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_FL.Testing.MCtesting.e351a522-1130-47d6-a178-70e095057950" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="asset-manifest.json"/>
+      <file href="favicon.ico"/>
+      <file href="image/picture1.png"/>
+      <file href="image/picture2.png"/>
+      <file href="index.html"/>
+      <file href="logo192.png"/>
+      <file href="logo512.png"/>
+      <file href="manifest.json"/>
+      <file href="precache-manifest.e82b96949bd6c7b40b6ae1f674110a66.js"/>
+      <file href="robots.txt"/>
+      <file href="service-worker.js"/>
+      <file href="static/css/2.af3c1da9.chunk.css"/>
+      <file href="static/css/2.af3c1da9.chunk.css.map"/>
+      <file href="static/css/main.d2def36b.chunk.css"/>
+      <file href="static/css/main.d2def36b.chunk.css.map"/>
+      <file href="static/js/2.0a3d045d.chunk.js"/>
+      <file href="static/js/2.0a3d045d.chunk.js.LICENSE.txt"/>
+      <file href="static/js/2.0a3d045d.chunk.js.map"/>
+      <file href="static/js/main.5c14de5a.chunk.js"/>
+      <file href="static/js/main.5c14de5a.chunk.js.map"/>
+      <file href="static/js/runtime-main.673723db.js"/>
+      <file href="static/js/runtime-main.673723db.js.map"/>
+    </resource>
+  </resources>
+</manifest>
